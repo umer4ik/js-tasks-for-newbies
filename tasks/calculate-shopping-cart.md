@@ -1,4 +1,4 @@
-Card calculator
+Shopping card calculator
 
 You're making a shopping card for a website. You have the following items in your cart:
 
